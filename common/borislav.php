@@ -1,4 +1,4 @@
 <?php
 
 
-echo 'Some logs from Bogdan';
+echo 'Some logs from Bogdan' . PHP_EOL;
