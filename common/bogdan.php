@@ -1,6 +1,4 @@
 <?php
 
-echo 'Hello! I am Maksym';
-
+echo "Bogdan";
 echo 'Some logs from Bogdan';
-
