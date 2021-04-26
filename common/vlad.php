@@ -1,4 +1,3 @@
 <?php
+echo 'Vlad Panov';
 
-
-echo 'Some logs from Bogdan';
